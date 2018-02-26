@@ -1,0 +1,39 @@
+#hiddenMessage {
+	display: none;
+}
+
+body {
+	background-color: #003366;
+}
+
+button {
+	color: #000000; /* Button Text Color */
+	border-radius: 5px; /* Button Border Radius */
+	outline: none; /* No outline when clicked */
+	margin-top: 75px; /* Margin Distance from top */
+	padding: 10px; /* Padding around Text inside button */
+}
+#btn-group {
+	text-align: center;
+}
+
+#btn-group {
+	color: #FFFFFF; /* Hidden Message Text Color */
+	font-size: 75px; /* Text Size */
+	font-family: Arial;
+}
+
+.footer {
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Occupies the whole width of the page */
+    background-color: #0066cc;
+    color: white; /* Footer Text Color */
+    text-align: center; /* Alignment of Text inside the Footer */
+}
+
+.footer a {
+	color: #FFFFFF; /* Color of <a> */
+	text-decoration: none; /* Removes the under line which is a hiperlink */
+}
